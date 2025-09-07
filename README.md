@@ -1,3 +1,12 @@
+### 👋 Olá, eu sou o Davi!
+
+💻 Estudante de programação focado em **Java** e **Desenvolvimento de jogos com linguagem Lua**.  
+🚀 Sempre em busca de aprender mais sobre **projetos práticos e novas tecnologias**.  
+🌍 Foco em trabalhar com tecnologia fora do país.  
+🎮 Apaixonado por **NBA**, **animes** e criação de conteúdo digital. 
+
+### 👨‍💻 Minhas linguagens:
+
 ![sql-svgrepo-com](https://github.com/user-attachments/assets/7fe5bcd4-8d7a-4184-abe5-a1b81b4219ac)![lua02-svgrepo-com](https://github.com/user-attachments/assets/5be47393-e69c-4552-964e-9f0f7da0954e)![python-127-svgrepo-com](https://github.com/user-attachments/assets/f31de243-6063-4c24-9327-2886a21a4a11)![java-logo-svgrepo-com](https://github.com/user-attachments/assets/60a4fd4a-e73f-49ee-aa5f-df4f47ed2d93)
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 <!-- Uploaded to: SVG Repo, www.svgrepo.com, Transformed by: SVG Repo Mixer Tools -->
@@ -32,9 +41,9 @@
 <path d="M8.562,21.961a15.611,15.611,0,0,0,2.6.741A24.9,24.9,0,0,0,16,23.155a24.9,24.9,0,0,0,4.838-.452,15.614,15.614,0,0,0,2.6-.741c1.864-.727,2.525-1.535,2.525-2v-3.39a10.706,10.706,0,0,1-1.692.825A23.49,23.49,0,0,1,16,18.74a23.49,23.49,0,0,1-8.271-1.348,10.829,10.829,0,0,1-1.692-.825V19.96C6.037,20.426,6.7,21.231,8.562,21.961Z" style="fill:#fffff"/>
 <path d="M16,30c5.5,0,9.963-1.744,9.963-3.894V23.269a10.5,10.5,0,0,1-1.535.762l-.157.063A23.487,23.487,0,0,1,16,25.445a23.422,23.422,0,0,1-8.271-1.351c-.054-.02-.106-.043-.157-.063a10.5,10.5,0,0,1-1.535-.762v2.837C6.037,28.256,10.5,30,16,30Z" style="fill:#fffff"/>
 <ellipse cx="16" cy="5.894" rx="9.963" ry="3.894" style="fill:#fffff"/>
-</g>
+</g>  
 
-## 🌐 Minhas Redes
+## 🌐 Entre em Contato:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/davi-henrique-8a5631260)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/seu-usuario)
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/seu-link)
