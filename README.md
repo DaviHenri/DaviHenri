@@ -3,7 +3,6 @@
 💻 Estudante de programação focado em **Java** e **Desenvolvimento de jogos com linguagem Lua**.  
 🚀 Sempre em busca de aprender mais sobre **projetos práticos e novas tecnologias**.  
 🌍 Foco em trabalhar com tecnologia fora do país.  
-🎮 Apaixonado por **NBA**, **animes** e criação de conteúdo digital. 
 
 ### 👨‍💻 Minhas linguagens:
 
