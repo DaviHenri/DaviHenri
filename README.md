@@ -1,4 +1,4 @@
-### 👋 Olá, eu sou o Davi!
+### 👋 Olá, eu sou o Henri!
 
 💻 Estudante de programação focado em **Java** e **Desenvolvimento de jogos com linguagem Lua**.  
 🚀 Sempre em busca de aprender mais sobre **projetos práticos e novas tecnologias**.  
